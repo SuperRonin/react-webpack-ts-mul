@@ -6,4 +6,4 @@
 
 #### npm link typescript
 
-#### 直接运行：webpack-dev-server
+#### 直接运行：npm run dev
